@@ -6,4 +6,4 @@ HBaseBigSql:  https://stanislawbartkowski.github.io/javadoc/bsqlhbase/HBaseBigSq
 
 HBBasePutGet:  https://stanislawbartkowski.github.io/javadoc/bsqlhbase/HBasePutGet/
 
-RestService: https://github.com/stanislawbartkowski/javadoc/blob/master/docs/RestService
+RestService: https://github.com/stanislawbartkowski/javadoc/RestService
